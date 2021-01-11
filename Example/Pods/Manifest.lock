@@ -1,0 +1,16 @@
+PODS:
+  - CPKPodTest (0.1.0)
+
+DEPENDENCIES:
+  - CPKPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  CPKPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPKPodTest: 6f59e83c885a95317465bfdcaeb4aeeb751d2423
+
+PODFILE CHECKSUM: bb67624c4dc6c6f12db8bc25fb3a6962e11c7bc9
+
+COCOAPODS: 1.10.0
