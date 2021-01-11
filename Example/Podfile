@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CPKPodTest_Example' do
+  pod 'CPKPodTest', :path => '../'
+
+  target 'CPKPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
